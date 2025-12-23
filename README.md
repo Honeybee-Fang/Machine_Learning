@@ -6,3 +6,6 @@ Build the first basic regression model with Titanic Dataset
 
 ## 2025-05-06
 Add new custom churn prediction model
+
+## 2025-10-12
+After aligned with leader, I add 3 different basic prediction models to compare the accuracy, execution speed and resource consumption.
